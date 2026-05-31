@@ -27,8 +27,3 @@ Full Stack Development, Frontend Design, API Integration
 
 I can spend hours optimizing performance just to save a few hundred milliseconds.
 
-<div align="center">
-
-**Thanks for visiting!** 🙏
-
-</div>
