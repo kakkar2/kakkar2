@@ -1,4 +1,4 @@
-# 👨‍💻 Lalit Kakkar | ## Full Stack Developer
+# 👨‍💻 Lalit Kakkar 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kakkar2&color=blue&style=flat-square)](https://github.com/kakkar2)
 
