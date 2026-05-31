@@ -1,28 +1,34 @@
-# Hi 👋, I'm Lalit Kakkar
+# 👨‍💻 Lalit Kakkar | ## Full Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kakkar2&label=Profile views&color=0e75b6&style=flat" alt="kakkar2" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=kakkar2&color=blue&style=flat-square)](https://github.com/kakkar2)
 
-- 🌱 I'm currently learning **Advanced Next.js, TypeScript, PostgreSQL, System Design, and AI Integrations**
 
-- 👯 I'm looking to collaborate on **Open Source Projects, SaaS Platforms, and Full Stack Web Applications**
+### 🛠️ Tech Stack
 
-- 🤝 I'm looking for help with **System Design, Scalable Architectures, and AI-powered Product Development**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-333?style=for-the-badge&logo=reactdotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-333?style=for-the-badge&logo=shadcnui&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-333?style=for-the-badge&logo=framermotion&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-333?style=for-the-badge&logo=expressdotjs&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-333?style=for-the-badge&logo=restapis&logoColor=white) ![JWT Authentication](https://img.shields.io/badge/JWT%20Authentication-333?style=for-the-badge&logo=jwtauthentication&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-333?style=for-the-badge&logo=firebasefirestore&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-333?style=for-the-badge&logo=drizzle&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-333?style=for-the-badge&logo=mongoose&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-333?style=for-the-badge&logo=postman&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-333?style=for-the-badge&logo=reduxtoolkit&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-333?style=for-the-badge&logo=tanstackquery&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-333?style=for-the-badge&logo=cloudinary&logoColor=white) ![API Integration](https://img.shields.io/badge/API%20Integration-333?style=for-the-badge&logo=apiintegration&logoColor=white) ![Custom Hooks](https://img.shields.io/badge/Custom%20Hooks-333?style=for-the-badge&logo=customhooks&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.js-333?style=for-the-badge&logo=nestdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-333?style=for-the-badge&logo=reactnative&logoColor=white) ![Shadcn Ui](https://img.shields.io/badge/Shadcn%20Ui-333?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-- 📫 How to reach me **lalitkakkar50@gmail.com**
+### 📚 Currently Learning
 
-- ⚡ Fun fact **I can spend hours optimizing performance just to save a few hundred milliseconds.**
+ I'm currently learning Advanced Next.js, TypeScript, PostgreSQL, System Design, and AI Integrations
 
-- 👨‍💻 All of my projects are available at **[https://lalitkakkarportfolio.vercel.app](https://lalitkakkarportfolio.vercel.app)**
+### 🤝 Looking to Collaborate
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1d3O0BILXMaeBrF0IuZ5--oqSdeWbrczj/view](https://drive.google.com/file/d/1d3O0BILXMaeBrF0IuZ5--oqSdeWbrczj/view)**
+Full Stack Development, Frontend Design, API Integration
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/kakkar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kakkar2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lalit-kakkar50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit-kakkar50" height="30" width="40" /></a>
-<a href="https://twitter.com/LalitKakkar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LalitKakkar7" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+</div>
 
+### 🌐 Connect with Me
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](lalitkakkarportfolio.vercel.app) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalitkakkar50@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LalitKakkar7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit-kakkar50) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kakkar2)
+
+### ⚡ Fun Fact
+
+I can spend hours optimizing performance just to save a few hundred milliseconds.
+
+<div align="center">
+
+**Thanks for visiting!** 🙏
+
+</div>
